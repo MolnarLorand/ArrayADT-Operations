@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lorand/WorkSpace/Algoritmi si structuri de date exemple/7 - Array ADT/7 - MenuProgramArrays/main.c
+stdio.h
+-
+stdlib.h
+-
+
