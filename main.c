@@ -381,5 +381,6 @@ int main() {
         }
     } while (ch < 11);
 
+    //testez doar optiunile pentru git -> new branch
     return 0;
 }
